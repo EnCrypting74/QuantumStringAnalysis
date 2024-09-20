@@ -8,7 +8,7 @@ Per l'esecuzione di questo codice è necessario VS Code(https://code.visualstudi
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Packages pip:
-pip install pytket
+pip install pytket \n
 pip install pytket-quantinuum    
 
 Estensioni VSCode:
